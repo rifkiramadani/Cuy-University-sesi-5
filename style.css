@@ -1,0 +1,46 @@
+#navbar {
+    height: 7em;
+}
+
+#navbar-text {
+    font-size: 30px;
+}
+
+#card {
+    margin-top: 5em;
+}
+
+#form {
+    margin-top: 2em;
+}
+
+#register-text {
+    text-decoration: none;
+}
+
+#submit-register-button {
+    margin-top: 2em;
+}
+
+#managerPic {
+    width: 50rem;
+    height: 25rem;
+
+}
+
+/* #adminPic {
+    width: 25rem;
+    height: 12rem;
+} */
+
+/* #staffPic {
+    width: 25px;
+    height: 25px;
+} */
+
+#logoutButton {
+    color: white;
+    width: 60px;
+    height: 25px;
+    margin-left: 50px;
+}
